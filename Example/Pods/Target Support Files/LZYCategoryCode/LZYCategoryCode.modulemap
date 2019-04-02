@@ -1,0 +1,6 @@
+framework module LZYCategoryCode {
+  umbrella header "LZYCategoryCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

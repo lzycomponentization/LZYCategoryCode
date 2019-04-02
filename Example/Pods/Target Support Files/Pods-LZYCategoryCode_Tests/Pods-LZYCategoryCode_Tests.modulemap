@@ -1,0 +1,6 @@
+framework module Pods_LZYCategoryCode_Tests {
+  umbrella header "Pods-LZYCategoryCode_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

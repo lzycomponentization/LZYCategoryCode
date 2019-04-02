@@ -1,0 +1,16 @@
+PODS:
+  - LZYCategoryCode (0.1.0)
+
+DEPENDENCIES:
+  - LZYCategoryCode (from `../`)
+
+EXTERNAL SOURCES:
+  LZYCategoryCode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZYCategoryCode: 0888f17fd805aca925ba99d72be4e263db6b23af
+
+PODFILE CHECKSUM: 85676cf6131ba77ab2b70175d18534f868cd0918
+
+COCOAPODS: 1.5.3

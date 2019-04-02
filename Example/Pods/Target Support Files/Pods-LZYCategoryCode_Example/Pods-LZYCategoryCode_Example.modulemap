@@ -1,0 +1,6 @@
+framework module Pods_LZYCategoryCode_Example {
+  umbrella header "Pods-LZYCategoryCode_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
